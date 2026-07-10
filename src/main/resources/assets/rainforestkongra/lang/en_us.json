@@ -1,0 +1,15 @@
+{
+  "item.rainforestkongra.rainforest_gem": "Rainforest Gem",
+  "item.rainforestkongra.kongra_scale": "Kongra Scale",
+  "item.rainforestkongra.kongra_helmet": "KONGRA Helmet",
+  "item.rainforestkongra.kongra_chestplate": "KONGRA Chestplate",
+  "item.rainforestkongra.kongra_leggings": "KONGRA Leggings",
+  "item.rainforestkongra.kongra_boots": "KONGRA Boots",
+  "item.rainforestkongra.kongra_spawn_egg": "KONGRA Spawn Egg",
+  "item.rainforestkongra.jungle_toucan_spawn_egg": "Jungle Toucan Spawn Egg",
+  "item.rainforestkongra.rainforest_jaguar_spawn_egg": "Rainforest Jaguar Spawn Egg",
+  "entity.rainforestkongra.kongra": "KONGRA",
+  "entity.rainforestkongra.jungle_toucan": "Jungle Toucan",
+  "entity.rainforestkongra.rainforest_jaguar": "Rainforest Jaguar",
+  "itemGroup.rainforestkongra.main": "Rainforest & Kongra"
+}
